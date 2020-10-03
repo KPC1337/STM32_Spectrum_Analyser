@@ -1,2 +1,2 @@
-# STM32_Spectrum_Analyser
-An STM32 Blue pill based spectrum analyser
+# Wireless Spectrum Analyser
+> *Using STM32 Blue Pill Development Board*
